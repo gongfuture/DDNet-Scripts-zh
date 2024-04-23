@@ -1,5 +1,0 @@
-+prevweapon
-+fire
-
-bind mouse1 "+weapon1; +fire"
-bind mouse2 "+hook; +weapon2; bind mouse1 exec weapons.txt"
