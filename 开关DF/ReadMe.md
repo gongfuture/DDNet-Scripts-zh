@@ -15,4 +15,4 @@ Enables/Disables DeepFly.
 To initiate it `exec "Deep Fly Off.cfg"` , then use X in-game to toggle it on & off.
 
 ## 原文件夹名称
-Deep fly toggle
+`Deep fly toggle`
