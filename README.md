@@ -3,17 +3,21 @@
 ## 介绍
 
 这是一个保存 DDNet cfg脚本文件的仓库，可以更好地自定义您的体验
+
 尝试对 **[VeH-c/DDNet-Scripts](https://github.com/VeH-c/DDNet-Scripts)** 进行汉化翻译和继续维护
 
 ### DDNet是什么？
 
 ***DDRaceNetwork，一个免费的合作平台游戏***
+
 GitHub仓库地址： **[ddnet/ddnet](https://github.com/ddnet/ddnet)**
+
 官网位于 **[https://ddnet.org/]** ，也可在steam免费下载 [DDNet](https://store.steampowered.com/app/412220/DDNet/)
 
 ### cfg脚本文件是什么？
 
 **cfg文件**是一种配置文件，用于保存游戏设置。在DDNet中，您可以使用这些文件来更改游戏的行为，例如武器的切换，绑定的设置等。
+
 在这个仓库中，我们整理编写了一些有用的脚本文件，以帮助您更好地定制您的游戏体验。
 
 ## 如何使用
