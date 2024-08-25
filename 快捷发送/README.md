@@ -27,3 +27,7 @@
 - 列表采用循环翻页设计，需要将头尾两页的`bind left` `bind right`更改为对应`cfg`
 
 ~~当然也可以图方便直接用[example](./example/)里的~~
+
+## 关于注释
+
+~~应部分人的要求，~~以`short_sentences1.cfg`和`short_sentences_reset.cfg`为例，补充部分注释内容，方便理解。
