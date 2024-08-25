@@ -30,4 +30,4 @@
 
 ## 关于注释
 
-~~应部分人的要求，~~以`short_sentences1.cfg`和`short_sentences_reset.cfg`为例，补充部分注释内容，方便理解。
+~~应部分人的要求~~，以`short_sentences1.cfg`和`short_sentences_reset.cfg`为例，补充部分注释内容，方便理解。
