@@ -11,14 +11,14 @@
 `short_sentences1.cfg`/`short_sentences2.cfg`/`short_sentences3.cfg`文件结构几乎一致，其中
 
 - `echo 1.`为控制台回显提示部分，你可以在此设置一个易于记忆的简单提示词，用于提示按键对应的语句
-- `bind 1 "exec short_sentences_reset.cfg;say 1"`为实际控制部分，只需更改`say 1`中`1`的部分为你想要快速发送的语句即可
+- `bind 1 "say 1;exec short_sentences_reset.cfg;bind down exec short_sentences1.cfg"`为实际控制部分，只需更改`say 1`中`1`的部分为你想要快速发送的语句即可
   
 ## 使用方法
 
 1. 阅读上述文件解释后按照自己的需求修改配置内容
-2. 将[short_sentences_reset.cfg](./short_sentences_reset.cfg)放入DDNet对应数据存储目录下
-3. 打开DDnet，F1控制台输入`exec short_sentences_reset.cfg`
-4. 按照自己的需求增减[short_sentences1.cfg](./short_sentences1.cfg)的数量并放入DDNet对应数据存储目录下
+2. 将所有cfg文件放入DDNet对应数据存储目录下
+3. 打开DDnet，F1控制台输入`bind down exec short_sentences1.cfg`
+4. 按照自己的需求增减[short_sentences1.cfg](./short_sentences1.cfg)的数量
 5. 开始愉快的玩耍吧:P
 
 *增加页数或者减少页数注意*
