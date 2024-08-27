@@ -36,7 +36,3 @@ Press x another time to use normal arrow keys again
  Author: kamillentee // https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=208
 
 note: Copy&Pasted, please direct questions & comments for this to the author
-
-## 原文件夹名称
-
-`Edge2Edge~3 Freeze Tiles {by kamillentee}`

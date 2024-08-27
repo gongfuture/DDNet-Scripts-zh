@@ -27,6 +27,3 @@ pressing x once puts you in "killing Mode" that: 1. disables "Kill Protection" 2
 To initiate: exec killprotection.cfg
 
 Credits: Valen_4 // https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=2083
-
-## 原文件夹名称
-`Manual Kill 'Protection' {by Valen_4}`

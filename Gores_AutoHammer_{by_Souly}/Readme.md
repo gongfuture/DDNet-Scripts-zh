@@ -23,6 +23,3 @@ You can also use this with just weapons.cfg but then you wont be able to toggle 
 To initialize it: exec switch.cfg , then use CTRL+G in-game to toggle it on & off.
 
 Credits: Souly#7007 // DiscordApp.com
-
-## 原文件夹名称
-`Gores AutoHammer {by Souly}`
