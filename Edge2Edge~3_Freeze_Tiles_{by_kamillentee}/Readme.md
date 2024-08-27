@@ -20,7 +20,7 @@
 
 注意：仅为复制&粘贴，如果对此脚本有任何问题或评论，请直接向作者提问。
 
-## 下为原README
+## 原README
 
 This is usefull to jump from one edge to another through 3 freezes. If you press Ctrl+shift+d you see the your coordinates on the right side of the screen. The decimal place of it is usefull for some tricks.
 

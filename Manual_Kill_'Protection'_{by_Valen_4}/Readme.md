@@ -17,7 +17,7 @@
 
 致谢：Valen_4 // https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=2083
 
-## 以下为原README
+## 原README
 
 Pressing x once disables "Kill Protection", pressing x again kills you, Mouse-Wheel Up Re-enables "Kill Protection"
 

@@ -14,7 +14,7 @@
 
 致谢：Souly#7007 // DiscordApp.com
 
-## 以下为原README
+## 原README
 
 Souly's version of Gores AutoHammer. (Switch's to Gun on Hook, Hammer on Fire)
 

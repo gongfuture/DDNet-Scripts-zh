@@ -8,7 +8,7 @@
 
 如何使用：`exec "Deep Fly Off.cfg"`，在游戏中使用`X`开启或关闭。
 
-## 以下为原README
+## 原README
 
 Enables/Disables DeepFly.
 
