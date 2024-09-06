@@ -1,3 +1,8 @@
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <a href="http://ddnet.org/"><img src="https://ddnet.org/ddnet2.svg" width="200" height="200" alt="ddnet"></a>
+</p>
+
 # DDNet-Scripts-zh
 
 ## 介绍
@@ -66,7 +71,7 @@ TODO: 自动化bat复制cfg进入DDNet数据文件夹
 
 用于 DDnet 的脚本文件，可以更好地自定义您的体验
 
-详见 https://forum.ddnet.tw/viewtopic.php?f=16&t=5819
+详见 <https://forum.ddnet.tw/viewtopic.php?f=16&t=5819>
 
 下载： 绿色的按钮“<> Code” > “Download  ZIP"
 
